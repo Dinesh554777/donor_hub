@@ -1,0 +1,5 @@
+{
+  "name": "DonorHub",
+  "description": "A comprehensive system for managing blood donations, inventory, and requests for donors, hospitals, and administrators.",
+  "requestFramePermissions": []
+}
